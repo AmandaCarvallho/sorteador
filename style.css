@@ -1,0 +1,48 @@
+*{
+   margin: 0;
+   padding: 0; 
+   font-family: "Oswald", sans-serif;
+}
+
+body{
+    background: #1c1b22;
+}
+
+img{
+    width: 400px;
+    margin-left: 460px;
+}
+
+div{
+    margin-left: 470px;
+}
+
+h2{
+    color:#ddddfa;
+    margin-left: 570px;
+    margin-bottom: 20px;
+}
+
+button{
+    margin-left: 570px;
+    width: 200px;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 50px;
+    background: #141275;
+    color:#ddddfa;
+    box-shadow: 1px 1px 2px #221caa;
+    cursor: pointer;
+}
+
+input{
+    width: 200px;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 10px #141275;
+    background: #ddddfa;
+    color: #141275;
+}
